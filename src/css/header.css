@@ -1,0 +1,13 @@
+.headNav{
+    width: 100%;
+    padding: 30px 4% 10px;
+    background-color: #f0f0f0;
+    position: fixed;
+    top: 0;
+    display: flex;
+    align-items: flex-start;
+}
+
+.linkNav{
+    margin: 0 0 0 auto;
+}
