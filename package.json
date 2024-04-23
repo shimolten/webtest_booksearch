@@ -1,6 +1,6 @@
 {
   "name": "webtest_booksearch",
-  "homepage": "https://shimolten.github.io/webtest/webtest_booksearch",
+  "homepage": "./",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
